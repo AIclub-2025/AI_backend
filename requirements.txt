@@ -1,0 +1,6 @@
+fastapi==0.117.1
+pydantic==2.11.9
+pymysql==1.1.2
+tinydb==4.8.2
+mammoth==1.6.0
+python-multipart==0.0.6
